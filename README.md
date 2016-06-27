@@ -1,4 +1,4 @@
-# FilterInput
+# FilterInput V1.0
 FilterInput is a small extension of filter_input function with predefined filters and support to compare values, length , range and much more.
 
 ## Simple usage
